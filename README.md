@@ -20,7 +20,7 @@
 
 For a deep dive into our system architecture, Multi-Agent evaluation methodology, and comprehensive performance engineering, please refer to our official slide deck:
 
-👉 **[Download / View the FinRAG Presentation (PDF)](./FinRAGV1224.pdf)**
+👉 **[Download / View the FinRAG Presentation (PDF)](./Timber-总决赛-郑诗籍-FinRAG.pdf)**
 
 ---
 
