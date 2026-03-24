@@ -2,7 +2,7 @@
 # 🏦 FinRAG: Enterprise-Grade Multimodal RAG Pipeline for Finance
 
 [![AIC 2025 - 1st Place](https://img.shields.io/badge/AIC_2025-1st_Place_Champion-gold.svg)]()
-[![Presentation](https://img.shields.io/badge/Presentation-PDF-red.svg)](./Timber-总决赛-郑诗籍-FinRAG.pdf.pdf)
+[![Presentation](https://img.shields.io/badge/Presentation-PDF-red.svg)](./Timber-总决赛-郑诗籍-FinRAG.pdf)
 [![Model Architecture](https://img.shields.io/badge/Model-Qwen3--30B--MoE-blue)]()
 [![Framework](https://img.shields.io/badge/Framework-BM25s_&_MinerU-yellow)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
